@@ -1,0 +1,35 @@
+h1, p {
+  font-family: Lato;
+}
+.betterview{
+  width: 300px;
+  height:400px;
+  background-color: azure;
+  border-radius:25px;
+  box-sizing: border-box;
+  box-shadow:1px 2px 2px 2px gray;
+  margin: auto;
+  
+}
+ input{
+  width: 50px;
+  height: 60px;
+  margin: 5px;
+  margin-top: 300px;
+  background-color: gray;
+  border:none;
+  border-radius: 10px;
+  color: white;
+  font-size: xx-large;
+  font-weight: bolder;
+  text-align: center;
+  cursor: pointer;
+ }
+ input:focus { 
+  outline: none !important;
+  border: 3px solid #719ECE;
+}
+ .inputbox{
+   margin-left:20px;
+ }
+ 
